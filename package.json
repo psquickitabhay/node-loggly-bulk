@@ -15,7 +15,7 @@
   ],
   "dependencies": {
     "request": ">=2.76.0 <3.0.0",
-    "timespan": "2.3.x",
+    "moment": "2.18.1",
     "json-stringify-safe": "5.0.x"
   },
   "devDependencies": {
